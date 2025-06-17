@@ -1,0 +1,3 @@
+Hola jejeje
+Esta carpeta y sus archivos tienen que estar en el apartado de "Documentos" en su pc para que corra.
+Vale mencionar que esta wea solo corre en Windows xd.
