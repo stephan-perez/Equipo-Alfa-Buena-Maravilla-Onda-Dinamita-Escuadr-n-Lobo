@@ -5,7 +5,7 @@
 2. Ingrese al CMD de su computador. (WIN + R, CMD)
 
 3. Instale las siguientes bibliotecas/modulos para que el programa se ejecute correctamente:
-pip install pillow openpyxl matplotlib
+pip install [pillow, openpyxl, matplotlib, tk]
 Nota: Debe copiar la linea y pegar en el CMD, luego presionar ENTER y esperar que se descargue.
 
 4. Descargue el archivo .zip en su computador
