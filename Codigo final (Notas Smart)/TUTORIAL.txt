@@ -1,0 +1,27 @@
+##TUTORIAL INSTALACION##
+
+1. Descargue la version 3.13.3 o superir de Python. (Pagina oficial de Python: https://www.python.org/downloads/)
+
+2. Ingrese al CMD de su computador. (WIN + R, CMD)
+
+3. Instale las siguientes bibliotecas/modulos para que el programa se ejecute correctamente:
+pip install pillow openpyxl matplotlib
+Nota: Debe copiar la linea y pegar en el CMD, luego presionar ENTER y esperar que se descargue.
+
+4. Descargue el archivo .zip en su computador
+Nota: Si su computador no puedo abrir un archivo .zip, debe descargar WinRar. (Pagina oficial de WinRar: https://winrar.es/descargas/rar)
+
+5. Cree una nueva carpeta y guarde el archivo descargado en ella, luego haga clic derecho y seleccione "Extrar aqui".
+
+6. Instalacion completada.
+
+##MANUAL DE USO##
+
+1. Ingrese los datos de los estudiantes en el Excel llamado "datos_secciones".
+(Datos: SECCION, RUT, NOTA PEP1, NOTA PEP2, CONTROL 1, CONTROL 2)
+
+2. Ejecute el archivo .py llamado "L-7-GRUPO-6-CODIGO".
+
+3. Se le presentan tres botones para interacturar, haga clic izquierdo donde le parezca pertinente.
+
+##FIN##
